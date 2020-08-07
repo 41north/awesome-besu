@@ -31,7 +31,7 @@
 
 List of plugins that works directly with Besu plugin API:
 
-- [Exflo](https://github.com/41north/exflo/) - A plugin for the Besu enterprise-grade Ethereum client with the aim of making it easier to extract chain data into a variety of different data stores (Postgres) and processing pipelines (Kafka).
+- [Besu Exflo](https://github.com/41north/besu-exflo/) - A plugin for the Besu enterprise-grade Ethereum client with the aim of making it easier to extract chain data into a variety of different data stores (Postgres) and processing pipelines (Kafka).
 - [Besu Storage Replication](https://github.com/41north/besu-storage-replication) - Replication of your Besu key/value storage for incremental backup and read only replicas.
 - [Besu Storage Redis](https://github.com/abdelhamidbakhta/besu-storage-redis) - Besu Redis Key value store plugin.
 - [Besu Storage Hazelcast](https://github.com/abdelhamidbakhta/besu-storage-hazelcast) - Besu Hazelcast store plugin.
