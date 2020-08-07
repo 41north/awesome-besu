@@ -42,6 +42,10 @@ Examples:
 
 - [Plugins API Demo](https://github.com/PegaSysEng/PluginsAPIDemo) - Example of a plugin that uses Besu's plugin API.
 
+Starters:
+
+- [Besu Plugin Starter](https://github.com/41north/besu-plugin-starter) - Accelerate your Besu plugin development with this starter repository. 
+
 ## Deployments / DevOps
 
 - [Besu AWS Cloudformation Templates](https://github.com/PegaSysEng/besu-aws) - Cloudformation templates to help you get started with building and maintaining a private ethereum network in AWS.
