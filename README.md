@@ -29,11 +29,11 @@
 
 ## Plugins
 
-List of plugins that works directly with Besu plugin API:
+List of plugins that works directly with Besu's plugin API:
 
 - [Besu Exflo](https://github.com/41north/besu-exflo/) - A plugin for the Besu enterprise-grade Ethereum client with the aim of making it easier to extract chain data into a variety of different data stores (Postgres) and processing pipelines (Kafka).
-- [Besu Storage Replication](https://github.com/41north/besu-storage-replication) - Replication of your Besu key/value storage for incremental backup and read only replicas.
-- [Besu Storage Redis](https://github.com/abdelhamidbakhta/besu-storage-redis) - Besu Redis Key value store plugin.
+- [Besu Storage Replication](https://github.com/41north/besu-storage-replication) - Replication of your Besu key/value storage for incremental backup and read-only replicas.
+- [Besu Storage Redis](https://github.com/abdelhamidbakhta/besu-storage-redis) - Besu Redis Key/Value store plugin.
 - [Besu Storage Hazelcast](https://github.com/abdelhamidbakhta/besu-storage-hazelcast) - Besu Hazelcast store plugin.
 - [Besu Storage ChronicleMap](https://github.com/abdelhamidbakhta/besu-storage-chronicle-map) - A ChronicleMap store plugin.
 - [Azure Key Vault Security Module Plugin](https://github.com/magooster/besu-azure-keyvault-plugin) - Persist a Besu node key in an Azure Key Vault Secret.
@@ -51,12 +51,12 @@ Starters:
 - [Besu AWS Cloudformation Templates](https://github.com/PegaSysEng/besu-aws) - Cloudformation templates to help you get started with building and maintaining a private ethereum network in AWS.
 - [Besu Kubernetes (K8S)](https://github.com/PegaSysEng/besu-kubernetes) - Reference implementations of private networks using K8S.
 - [Besu Terraform](https://github.com/PegaSysEng/besu-terraform) - Reference implementations of private networks on AWS and Azure
-- [Besu Ansible Role](https://github.com/PegaSysEng/ansible-role-besu) - Ansible role that will install, configure and runs Besu.
+- [Besu Ansible Role](https://github.com/PegaSysEng/ansible-role-besu) - Ansible role that will install, configure, and runs Besu.
 
 ## Block Explorers
 
-- [Epirus](https://github.com/blk-io/epirus-free) - Ethereum, Hyperledger Besu and Quorum private blockchain explorer
-- [Aleth Lite Explorer](https://github.com/Alethio/ethereum-lite-explorer) - The Lite Explorer is a client-side only web application that connects directly to a Ethereum JSON RPC compatible node.
+- [Epirus](https://github.com/blk-io/epirus-free) - Ethereum, Hyperledger Besu, and Quorum private blockchain explorer
+- [Aleth Lite Explorer](https://github.com/Alethio/ethereum-lite-explorer) - The Lite Explorer is a client-side only web application that connects directly to an Ethereum JSON RPC compatible node.
 
 ## Other repositories
 
@@ -65,7 +65,7 @@ Starters:
 - [Ethers.js for Hyperledger Besu](https://github.com/besuchain/besu-ethers) - An extension of Richard Moore's excellent Ethers.js Ethereum JavaScript library that adds support for Hyperledger Besu's private transactions and Hyperledger Besu's extended APIs like Admin, Clique, IBFT 2.0, Permissioning and Txpool JSON-RPC APIs.
 - [Besu LS Support](https://github.com/abdelhamidbakhta/besu-ls-support) - Besu IBFT 2.0 network helper repository.
 - [Besu Clique config](https://www.npmjs.com/package/besu-clique-config) - This tool generates Clique configuration files for Hyperledger Besu.
-- [Go Besu](https://github.com/bsostech/go-besu) - go-besu is a Golang integration tool for Hyperledger Besu, helping developer to build a private raw transaction.
+- [Go Besu](https://github.com/bsostech/go-besu) - go-besu is a Golang integration tool for Hyperledger Besu, helping developers to build a private raw transaction.
 - [Orion High-Availability Example](https://github.com/lucassaldanha/orion-ha-example) - This project is an example of a highly available deployment of Orion.
 
 ## Docker
