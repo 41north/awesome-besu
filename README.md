@@ -38,6 +38,7 @@ List of plugins that works directly with Besu's plugin API:
 - [Besu Storage ChronicleMap](https://github.com/abdelhamidbakhta/besu-storage-chronicle-map) - A ChronicleMap store plugin.
 - [Azure Key Vault Security Module Plugin](https://github.com/magooster/besu-azure-keyvault-plugin) - Persist a Besu node key in an Azure Key Vault Secret.
 - [Quorum Besu Plugins](https://github.com/ConsenSys/besu-plugins) - Quorum Besu Plugins extends the Hyperledger Besu functionality. It uses the Plugin API to retrieve data from any Besu network, public or permissioned and feed it into an application or system.
+- [Besu Storage Ignite](https://github.com/41north/besu-storage-ignite) - Use Apache Ignite as your storage implementation.
 
 Examples:
 
