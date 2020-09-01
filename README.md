@@ -61,6 +61,7 @@ Starters:
 ## Other repositories
 
 - [Alastria Node Besu](https://github.com/alastria/alastria-node-besu) - This page contains technical information needed to add a node in the Alastria Besu Network (Alastria Red B).
+- [LACChain Besu Network](https://github.com/lacchain/besu-network) - Blockchain Pro Test-Net, running on Hyperledger Besu.
 - [Besu Sample Networks](https://docs.orion.pegasys.tech/en/stable/) - A collection of different network configurations for Besu.
 - [Ethers.js for Hyperledger Besu](https://github.com/besuchain/besu-ethers) - An extension of Richard Moore's excellent Ethers.js Ethereum JavaScript library that adds support for Hyperledger Besu's private transactions and Hyperledger Besu's extended APIs like Admin, Clique, IBFT 2.0, Permissioning and Txpool JSON-RPC APIs.
 - [Besu LS Support](https://github.com/abdelhamidbakhta/besu-ls-support) - Besu IBFT 2.0 network helper repository.
