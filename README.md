@@ -71,6 +71,8 @@ Starters / Templates:
 - [Go Besu](https://github.com/bsostech/go-besu) - go-besu is a Golang integration tool for Hyperledger Besu, helping developers to build a private raw transaction.
 - [Orion High-Availability Example](https://github.com/lucassaldanha/orion-ha-example) - This project is an example of a highly available deployment of Orion.
 - [LACChain Besu Network](https://github.com/lacchain/besu-network) - Blockchain Pro Test-Net, running on Hyperledger Besu.
+- [Besu Healthcheck](https://github.com/lacchain/besu-healthcheck) - Test smart contract deployment capabilities in Besu node.
+- [Besu Api](https://github.com/sambacha/besu-api) - Solidity API contract design information for utilizing RPC/RESTful Node Interaction and GraphQL.
 
 ## Docker
 
