@@ -73,6 +73,8 @@ Starters / Templates:
 - [LACChain Besu Network](https://github.com/lacchain/besu-network) - Blockchain Pro Test-Net, running on Hyperledger Besu.
 - [Besu Healthcheck](https://github.com/lacchain/besu-healthcheck) - Test smart contract deployment capabilities in Besu node.
 - [Besu Api](https://github.com/sambacha/besu-api) - Solidity API contract design information for utilizing RPC/RESTful Node Interaction and GraphQL.
+- [Homebrew Besu](https://github.com/hyperledger/homebrew-besu) - Homebrew Tap for Besu.
+- [Permissioning Smart Contracts](https://github.com/ConsenSys/permissioning-smart-contracts) - Smart contracts for the Besu permissioning system.
 
 ## Docker
 
