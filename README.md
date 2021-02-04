@@ -60,6 +60,7 @@ Starters / Templates:
 
 - [Epirus](https://github.com/blk-io/epirus-free) - Ethereum, Hyperledger Besu, and Quorum private blockchain explorer
 - [Aleth Lite Explorer](https://github.com/Alethio/ethereum-lite-explorer) - The Lite Explorer is a client-side only web application that connects directly to an Ethereum JSON RPC compatible node.
+- [Blockscout](https://github.com/poanetwork/blockscout) - BlockScout suports 4 variants (Besu, Geth, Ganache, Parity) and provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on EVM (Ethereum Virtual Machine) blockchains. BlockScout currently hosts the POA Network, xDai Chain, Ethereum Classic, Sokol & Kovan testnets and other testnets, private chains and sidechains.
 
 ## Other repositories
 
